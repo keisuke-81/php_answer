@@ -1,0 +1,38 @@
+
+.wrapper1{
+ 
+    margin: 0 auto;
+    /* background-image: url(img/img1.jpg); */
+    background-position: center;
+    background-size: cover;
+}
+.wrapper{
+    color: aliceblue;
+    background-color: #2e2e2e;
+    opacity: 0.9;
+    width: 55%;
+    margin: 0 auto;
+    font-size: 1rem;
+}
+.chart{
+    background: #ffffff;
+    opacity: 0.9;
+     border-radius: 20px ;
+
+    
+}
+#mychart-pie{
+    font-size: 1rem;
+}
+a{
+    text-decoration: none;
+}
+.button{
+    color: #fff;
+  background-color: #eb6100;
+  border-radius: 10px ;
+}
+.font-white{
+   
+    color: aliceblue;
+}
